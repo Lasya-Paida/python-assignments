@@ -1,0 +1,4 @@
+Summary of Average Scores by Subject
+========================================
+Subject: Math, Average Score: 89.00
+Subject: Science, Average Score: 83.00
