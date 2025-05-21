@@ -1,0 +1,30 @@
+{
+    "books": [
+        {
+            "type": "Book",
+            "title": "The Hobbit",
+            "author": "J.R.R. Tolkien",
+            "available": true
+        },
+        {
+            "type": "DigitalBook",
+            "title": "Digital Fortress",
+            "author": "Dan Brown",
+            "available": true,
+            "file_size_mb": 2.5
+        },
+        {
+            "type": "AudioBook",
+            "title": "Becoming",
+            "author": "Michelle Obama",
+            "available": true,
+            "duration_minutes": 1140
+        }
+    ],
+    "users": [
+        {
+            "name": "Alice",
+            "borrowed_books": []
+        }
+    ]
+}
