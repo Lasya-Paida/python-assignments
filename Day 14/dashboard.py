@@ -1,7 +1,7 @@
 # dashboard.py
 import pandas as pd
 
-def analyze_weather(filename="weather_data.csv"):
+def analyze_weather(filename="Day 14/weather_data.csv"):
     df = pd.read_csv(filename)
 
     print("\n📊 Weather Summary:")
