@@ -23,6 +23,14 @@
             "available": true,
             "size_mb": null,
             "duration_min": 180
+        },
+        {
+            "type": "Book",
+            "title": "1984",
+            "author": "George Orwell",
+            "available": true,
+            "size_mb": null,
+            "duration_min": null
         }
     ]
 }

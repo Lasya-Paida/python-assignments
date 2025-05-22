@@ -1,0 +1,12 @@
+Metadata-Version: 2.4
+Name: library_system
+Version: 0.1
+Summary: A simple CLI-based Library Management System
+Author: Your Name
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Dynamic: author
+Dynamic: classifier
+Dynamic: requires-python
+Dynamic: summary
