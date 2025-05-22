@@ -1,0 +1,28 @@
+{
+    "books": [
+        {
+            "type": "Book",
+            "title": "The Alchemist",
+            "author": "Paulo Coelho",
+            "available": false,
+            "size_mb": null,
+            "duration_min": null
+        },
+        {
+            "type": "DigitalBook",
+            "title": "Python 101",
+            "author": "John Doe",
+            "available": true,
+            "size_mb": 5.5,
+            "duration_min": null
+        },
+        {
+            "type": "AudioBook",
+            "title": "Rich Dad Poor Dad",
+            "author": "Robert Kiyosaki",
+            "available": true,
+            "size_mb": null,
+            "duration_min": 180
+        }
+    ]
+}
